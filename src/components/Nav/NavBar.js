@@ -11,7 +11,7 @@ function NavBar() {
   };
 
   return (
-    <Navbar expand="lg">
+    <Navbar expand="lg" className="pt-5">
       <Container className="nav-container">
         <Navbar.Brand href="#home">
           <img alt={logo} src={logo} className="logo"/>

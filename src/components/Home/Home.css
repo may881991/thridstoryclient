@@ -1,3 +1,7 @@
 .home{
-    background: url("../../assets/images/floor.png") no-repeat bottom ;
+    background: url("../../assets/images/floor.png") no-repeat right bottom ;
+}
+.home p{
+    font-weight: 300;
+    font-size: 20px;
 }
