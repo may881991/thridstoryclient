@@ -1,4 +1,6 @@
-
+.navbar{
+    background-color: var(--global-color-white);
+}
 .logo{
     width: 100px;
 }

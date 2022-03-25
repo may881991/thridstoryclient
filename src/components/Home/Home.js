@@ -3,6 +3,8 @@ import './Home.css';
 import NavBar from "../Nav/NavBar";
 import Books from '../Books/Books';
 import Customers from '../Customers/Customers';
+import Help from '../Help/Help';
+import Footer from '../Footer/Footer';
 import { Container, Row, Col ,Button } from "react-bootstrap";
 import bannerImg from "../../assets/images/banner-img1.png";
 import bgWYLK from "../../assets/images/WYLK1.png";
@@ -16,7 +18,7 @@ function Home() {
         <Container>
           <NavBar bg="light"/>
         </Container>
-        <section className="home pt-5">
+        <section className="home">
             <Row className='mx-auto container'>
                 <Col md={6} className="py-5">
                 <h1>Third Story Project</h1>
@@ -62,6 +64,8 @@ function Home() {
           </Container>
         </Container>
         <Customers />
+        <Help />
+        <Footer />
     </Container>
   );
 }

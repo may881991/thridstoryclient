@@ -31,6 +31,9 @@ b{
   font-weight: 700;
   color: var(--global-text-color);
 }
+a{
+  text-decoration: none !important;
+}
 h1, h2{
   position: relative;
   z-index: 1;

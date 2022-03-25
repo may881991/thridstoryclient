@@ -1,11 +1,15 @@
 .home{
     background: url("../../assets/images/floor.png") no-repeat right 123%;
+    padding-top: 12rem;
 }
 .home p{
     font-size: 20px;
 }
 .ourBooks{
     background-color: var(--global-color-lightblue);
+}
+.aboutUs{
+    position: relative;
 }
 .bannerText p{
     line-height: 1.8;
@@ -16,14 +20,14 @@
     width: 270px;
     height: auto;
     left: 0px;
-    top: 1834px;
+    top: -100px;
 }
 .bgItem2{
     position: absolute;
     width: 265px;
     height: 335px;
     left: 1346px;
-    top: 2350px;
+    top: 350px;
 }
 .aboutUs h2{
     color: var(--global-color-header);

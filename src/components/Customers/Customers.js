@@ -16,26 +16,26 @@ function Customers() {
                     <Carousel.Item interval={20000}>
                     <Row>
                         <Col md={4} className="px-5">
-                        <img className="d-block w-100" src={customer1Img} alt="First slide" />
+                        <img src={customer1Img} alt="First slide" />
                         </Col>
                         <Col md={4} className="px-5">
-                        <img className="d-block w-100" src={customer2Img} alt="First slide" />
+                        <img src={customer2Img} alt="First slide" />
                         </Col>
                         <Col md={4} className="px-5">
-                        <img className="d-block w-100" src={customer3Img} alt="First slide" />
+                        <img src={customer3Img} alt="First slide" />
                         </Col>
                     </Row>
                     </Carousel.Item>
                     <Carousel.Item interval={20000}>
                     <Row>
                         <Col md={4} className="px-5">
-                        <img className="d-block w-100" src={customer1Img} alt="First slide" />
+                        <img src={customer1Img} alt="First slide" />
                         </Col>
                         <Col md={4} className="px-5">
-                        <img className="d-block w-100" src={customer2Img} alt="First slide" />
+                        <img src={customer2Img} alt="First slide" />
                         </Col>
                         <Col md={4} className="px-5">
-                        <img className="d-block w-100" src={customer3Img} alt="First slide" />
+                        <img src={customer3Img} alt="First slide" />
                         </Col>
                     </Row>
                     </Carousel.Item>
