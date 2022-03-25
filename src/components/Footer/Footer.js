@@ -7,7 +7,7 @@ import boxItem from "../../assets/images/bgBox.png";
 function Footer() {
     return(
         <Container fluid className="footer">
-            {<img src={boxItem} className="bgItem5" />}
+            {<img src={boxItem} alt={boxItem}  className="bgItem5" />}
             <Container className="py-5">
                 <Row>
                     <Col lg={3} md={12}>

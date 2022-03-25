@@ -41,49 +41,49 @@ function Books() {
                 <Carousel.Item interval={20000}>
                   <Row>
                     <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book1Img} alt="First slide" />
+                      <img className="d-block w-100" src={book1Img} alt={book1Img} />
                       <label>၀ါးပင်ငယ်ငယ် ချစ်စဖွယ်</label>
                     </Col>
                     <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book2Img} alt="First slide" />
+                      <img className="d-block w-100" src={book2Img} alt={book2Img} />
                       <label>ပြင်ပရုပ်သွင်</label>
                     </Col>
                     <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book3Img} alt="First slide" />
+                      <img className="d-block w-100" src={book3Img} alt={book3Img} />
                       <label>အိုအေစစ်လေး</label>
                     </Col>
                     <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book4Img} alt="First slide" />
+                      <img className="d-block w-100" src={book4Img} alt={book4Img} />
                       <label>၀တ်ရည်လပ်ကီး</label>
                     </Col>
                     <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book5Img} alt="First slide" />
+                      <img className="d-block w-100" src={book5Img} alt={book5Img} />
                       <label>ပီနိုကီယိုနဲ့ ယမင်း</label>
                     </Col>
                   </Row>
                 </Carousel.Item>
                 <Carousel.Item interval={20000}>
                   <Row>
-                  <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book1Img} alt="First slide" />
+                    <Col md={2} className="px-2">
+                      <img className="d-block w-100" src={book1Img} alt={book1Img} />
                       <label>၀ါးပင်ငယ်ငယ် ချစ်စဖွယ်</label>
                     </Col>
                     <Col md={2} className="px-2">
-                      <img className="d-block w-100" src={book2Img} alt="First slide" />
+                      <img className="d-block w-100" src={book2Img} alt={book2Img} />
                       <label>ပြင်ပရုပ်သွင်</label>
                     </Col>
-                  <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={book3Img} alt="First slide" />
-                    <label>အိုအေစစ်လေး</label>
-                  </Col>
-                  <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={book4Img} alt="First slide" />
-                    <label>၀တ်ရည်လပ်ကီး</label>
-                  </Col>
-                  <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={book5Img} alt="First slide" />
-                    <label>ပီနိုကီယိုနဲ့ ယမင်း</label>
-                  </Col>
+                    <Col md={2} className="px-2">
+                      <img className="d-block w-100" src={book3Img} alt={book3Img} />
+                      <label>အိုအေစစ်လေး</label>
+                    </Col>
+                    <Col md={2} className="px-2">
+                      <img className="d-block w-100" src={book4Img} alt={book4Img} />
+                      <label>၀တ်ရည်လပ်ကီး</label>
+                    </Col>
+                    <Col md={2} className="px-2">
+                      <img className="d-block w-100" src={book5Img} alt={book5Img} />
+                      <label>ပီနိုကီယိုနဲ့ ယမင်း</label>
+                    </Col>
                   </Row>
                 </Carousel.Item>
               </Carousel>
@@ -94,48 +94,48 @@ function Books() {
               <Carousel.Item interval={20000}>
                 <Row>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng1Img} />
+                    <img className="d-block w-100" src={bookeng1Img} alt={bookeng1Img} />
                     <label>Foxy Jump</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng2Img} />
+                    <img className="d-block w-100" src={bookeng2Img} alt={bookeng2Img} />
                     <label>Heart In A Box</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng3Img} />
+                    <img className="d-block w-100" src={bookeng3Img} alt={bookeng3Img} />
                     <label>PSD Box Mockup</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng4Img} />
+                    <img className="d-block w-100" src={bookeng4Img} alt={bookeng4Img} />
                     <label>Foxy Jump</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng5Img} />
+                    <img className="d-block w-100" src={bookeng5Img} alt={bookeng5Img} />
                     <label>Fernando</label>
                   </Col>
-                
                 </Row>
                 </Carousel.Item>
                 <Carousel.Item interval={20000}>
                 <Row>
-                  <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng1Img} />
+                  
+                <Col md={2} className="px-2">
+                    <img className="d-block w-100" src={bookeng1Img} alt={bookeng1Img} />
                     <label>Foxy Jump</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng2Img} />
+                    <img className="d-block w-100" src={bookeng2Img} alt={bookeng2Img} />
                     <label>Heart In A Box</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng3Img} />
+                    <img className="d-block w-100" src={bookeng3Img} alt={bookeng3Img} />
                     <label>PSD Box Mockup</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng4Img} />
+                    <img className="d-block w-100" src={bookeng4Img} alt={bookeng4Img} />
                     <label>Foxy Jump</label>
                   </Col>
                   <Col md={2} className="px-2">
-                    <img className="d-block w-100" src={bookeng5Img} />
+                    <img className="d-block w-100" src={bookeng5Img} alt={bookeng5Img} />
                     <label>Fernando</label>
                   </Col>
                   </Row>
