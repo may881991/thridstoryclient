@@ -34,7 +34,7 @@ function Home() {
         </section>
         <Books />
         <Container fluid className="aboutUs">
-          {<img src={bgWYLK} className="bgItem1" />}
+          {<img src={bgWYLK} alt={bgWYLK} className="bgItem1" />}
           <Container className=' py-5'>
             <Row className='py-5'>
               <Col lg={6} md={12}>
@@ -48,7 +48,7 @@ function Home() {
                     </a>
               </Col>
             </Row>
-            {<img src={bgYamin} className="bgItem2" />}
+            {<img src={bgYamin} alt={bgYamin} className="bgItem2" />}
             <Row className='py-5'>
               <Col lg={6} md={12}>
                   <h2>Our Trainings</h2>

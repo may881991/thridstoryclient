@@ -9,7 +9,7 @@ import customer3Img from "../../assets/images/customer3.png";
 function Customers() {
     return(
         <Container fluid className="ourCustomers text-center">
-            {<img src={boxItem} className="bgItem3" />}
+            {<img src={boxItem} alt={boxItem} className="bgItem3" />}
             <Container className='py-5'>
                 <h2>Happy Customers</h2>
                 <Carousel className='my-5'>

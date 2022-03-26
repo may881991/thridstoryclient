@@ -11,26 +11,26 @@ function Footer() {
             <Container className="py-5">
                 <Row>
                     <Col lg={3} md={12}>
-                        <h5>{<img src={footerLogo} />} Third Story Project</h5>
+                        <h5>{<img src={footerLogo} alt={footerLogo}/>} Third Story Project</h5>
                         <p>We are a non-profit social enterprise, registered as a business and publisher in Myanmar.</p>
                         <label>©thirdstory 2022. All rights reserved</label>
                     </Col>
                     <Col lg={3} md={12} className="px-5">
                         <h5 className='secTitle'>Our Stories</h5>
                         <ul>
-                            <li><a href='#'>About Us</a></li>
-                            <li><a href='#'>Happy Customer</a></li>
-                            <li><a href='#'>Our Activities</a></li>
-                            <li><a href='#'>Apps</a></li>
+                            <li><a>About Us</a></li>
+                            <li><a>Happy Customer</a></li>
+                            <li><a>Our Activities</a></li>
+                            <li><a>Apps</a></li>
                         </ul>
                     </Col>
                     <Col lg={3} md={12}>
                         <h5 className='secTitle'>Shops</h5>
                         <ul>
-                            <li><a href='#'>Yangon</a></li>
-                            <li><a href='#'>Mandalay</a></li>
-                            <li><a href='#'>Shan State</a></li>
-                            <li><a href='#'>Kayin State</a></li>
+                            <li><a>Yangon</a></li>
+                            <li><a>Mandalay</a></li>
+                            <li><a>Shan State</a></li>
+                            <li><a>Kayin State</a></li>
                         </ul>
                     </Col>
                     <Col lg={3} md={12}>

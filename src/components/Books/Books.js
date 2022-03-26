@@ -21,7 +21,7 @@ function Books() {
         <Container fluid className="ourBooks">
             <Row className='mx-auto container'>
                 <Col md={2} className="py-3">
-                  {<img src={treeImg}  className="img-fluid"/> }
+                  {<img src={treeImg} alt={treeImg} className="img-fluid"/> }
                 </Col>
                 <Col md={8} className="py-3 px-5 text-center bannerText">
                 <h2>Our Books</h2>
@@ -32,7 +32,7 @@ function Books() {
                 </Form>
                 </Col>
                 <Col md={2} className="py-3">
-                  {<img src={puloneImg}  className="img-fluid"/> }
+                  {<img src={puloneImg} alt={puloneImg} className="img-fluid"/> }
                 </Col>
             </Row>
             <Container className='bookLists pt-5'>

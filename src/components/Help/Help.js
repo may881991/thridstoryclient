@@ -59,7 +59,7 @@ function Help() {
                 </Button>
             </div>
 
-            {<img src={jayImg} className="bgItem4" />}
+            {<img src={jayImg} alt={jayImg} className="bgItem4" />}
             </Container>
         </Container>
     );
