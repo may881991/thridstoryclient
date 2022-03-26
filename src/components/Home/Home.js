@@ -43,7 +43,7 @@ function Home() {
               <Col lg={6} md={12} className="textBox">
                   <h2>About Us</h2>
                   <p className="py-4">The Third Story Project, a collaborative effort between the <b>Myanmar Storytellers </b>and the <b>Benevolent Youth Association </b>(Yangon), creates and produces children’s books in <b>Burmese and other Myanmar languages </b>to distribute free of charge to children around Myanmar. The stories are written and illustrated by Myanmar artists for a Myanmar audience and address issues of <b>peace, tolerance, diversity, gender, environment and child rights.</b></p>
-                  <a className="btn btn-outline-primary">
+                  <a className="btn btn-outline-primary" href="https://www.google.com/">
                       Read More
                     </a>
               </Col>
@@ -53,7 +53,7 @@ function Home() {
               <Col lg={6} md={12}>
                   <h2>Our Trainings</h2>
                   <p className="col-lg-11 py-5">We also offer storyteller trainings to <b>community leaders, teachers, volunteers and religious leaders </b>so they can use storytelling in their work to better connect with the people they serve. Additionally, we work with young students to educate them about child rights and storytelling. We coach teens on how to create their own stories, offering them an outlet to express themselves in a constructive way.</p>
-                  <a className="btn btn-outline-primary">
+                  <a className="btn btn-outline-primary" href="https://www.google.com/">
                       See More
                     </a>
               </Col>

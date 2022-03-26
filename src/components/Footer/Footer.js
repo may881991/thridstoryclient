@@ -18,19 +18,19 @@ function Footer() {
                     <Col lg={3} md={12} className="px-5">
                         <h5 className='secTitle'>Our Stories</h5>
                         <ul>
-                            <li><a>About Us</a></li>
-                            <li><a>Happy Customer</a></li>
-                            <li><a>Our Activities</a></li>
-                            <li><a>Apps</a></li>
+                            <li><a href='https://www.google.com/'>About Us</a></li>
+                            <li><a href='https://www.google.com/'>Happy Customer</a></li>
+                            <li><a href='https://www.google.com/'>Our Activities</a></li>
+                            <li><a href='https://www.google.com/'>Apps</a></li>
                         </ul>
                     </Col>
                     <Col lg={3} md={12}>
                         <h5 className='secTitle'>Shops</h5>
                         <ul>
-                            <li><a>Yangon</a></li>
-                            <li><a>Mandalay</a></li>
-                            <li><a>Shan State</a></li>
-                            <li><a>Kayin State</a></li>
+                            <li><a href='https://www.google.com/'>Yangon</a></li>
+                            <li><a href='https://www.google.com/'>Mandalay</a></li>
+                            <li><a href='https://www.google.com/'>Shan State</a></li>
+                            <li><a href='https://www.google.com/'>Kayin State</a></li>
                         </ul>
                     </Col>
                     <Col lg={3} md={12}>
