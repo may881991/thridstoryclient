@@ -24,9 +24,7 @@
 }
 .bgItem2{
     position: absolute;
-    width: 265px;
-    height: 335px;
-    left: 1346px;
+    right: 0;
     top: 350px;
 }
 .aboutUs h2{
